@@ -2,7 +2,9 @@
 ## This is the main repository for NanoWeb.
 
 ### Installation
-    Requirements listed in requirements.txt in main directory. 
+    The requirements for this project are listed in requirements.txt in main directory. 
+    Run the following using python 3.10, either locally or in a virtual environment.
+
     1. Run pip -r requirements.txt in a terminal window.
     2. In a terminal window, type "streamlit run NanoPrepare.py".
     3. NanoWeb should open in your default browser.
